@@ -1,0 +1,617 @@
+Mono path[0] = 'D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'D:/Program Files (x86)/Steam/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4017 MB
+    Driver:   31.0.15.2756
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.101 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.721000 ms
+Command line arguments: -savedatafolder=C:\Users\kcook\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+RimWorld 1.4.3580 rev1304
+Save data folder overridden to C:\Users\kcook\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod 1507748539 is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528E5E070.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027504D91550.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528D1D020.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528D09A20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528D11430.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528F433D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528D6B040.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528F63DE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528FABE80.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528E06030.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528FC7820.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528FCC830.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000274DA0D3AB0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528FF2270.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529028CA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528E08640.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275290600C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275290638D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752907EAE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528D78050.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275290982F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529099900.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752909AF10.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275290F0010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275290FFC40.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752922A010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752922CC20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529290010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275292B0630.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275292DA970.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275292FDB90.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752932D1D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529337FE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752939C010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275293D5B60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528FA9670.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275293DF580.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275293E37B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275293E9FC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275293FBFD0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275294073F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529412400.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752941AC20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027504D92960.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529428E30.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529432060.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529434470.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529436280.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275294478A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000274DA0D7AC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752952E2C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275295410D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275295642F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529568B00.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529576530.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752958D340.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529592150.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529597D60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529697590.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275296999A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275296A4FB0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275296B01D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275293826A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275296BE400.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275297DE950.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275297E3F60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752980C380.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275298265A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000274DBF84040.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000274DA0BBA50.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529982830.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752998EA40.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529991050.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529A79E70.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529A95890.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528FB36B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529865DB0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529A9D0C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529AA04D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529AAE6E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529AB22F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529BBF2A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529AB4900.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529AB8710.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529CB44D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529D1B0F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529D1C300.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529D48720.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529D52340.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529D53D50.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529D58970.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529D66780.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529D74390.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529D759A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529D8BDD0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529D93A00.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529E9E440.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529F92460.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A018010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A020E20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A032840.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A14CD80.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A2329A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A259CD0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A274AF0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A2A3910.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A2B2D20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A2B9930.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A2BFD40.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A2E0160.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A3CBF90.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A3D5FA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A3DBFB0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A3EC1D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529546B50.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A3F37F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A4DFC10.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A5A8240.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A6958A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A87C720.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A955D60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752A95E780.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AA535B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AA585C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AA641D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AA67FF0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AA69C00.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AA6C210.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002750529D610.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AA8A030.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AB58EA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AB6B2B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AA8C640.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752ABB2440.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752ABB4A50.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752ACA6C80.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752ACB6CA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752ACD6AB0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AE34830.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AE67C60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AE6D080.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AD03930.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AE6FA90.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AE730A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AE7E8B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AE816C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AE850D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AE87CE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AE89AF0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AE8DD00.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AE8FB10.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AD0D980.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528FA4650.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AEABB40.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AEAD350.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000274DA0C3A70.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AECD570.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AFBC9A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752AFE8DC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B0091F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B00CC00.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B02F020.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B040630.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B048040.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B04A250.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B08D680.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B19ECA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B1AF2C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B2946E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B382B10.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B391330.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B393540.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027528FB5EC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B3BED70.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B3D3580.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B3D6D90.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B3DC5A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B402FD0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529555C10.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B4079F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B40F400.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B42E610.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B436C20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B456E30.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B461840.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B463250.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B464A60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B492C70.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B497080.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B499690.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B49C6A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B501010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B51A630.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B520450.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B534270.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B53DC90.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B5438A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B551AC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B63C8E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B640CF0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B643B00.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B647310.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B706740.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B712F50.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B71AB60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B727780.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B73D9A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529557020.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B74FDC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027529551FE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B7519D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B75DBE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B772400.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B4CDD70.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B78F220.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B791030.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B7A2640.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B7F0660.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B81E880.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B823C90.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752954E3B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B8278A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B8478B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B84A2C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B92FEE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B931CF0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B936700.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B93D510.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B94F130.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B950F40.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B953550.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B95EB60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000274DA0BFA60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B973780.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B97E990.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B9B45B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752B9C9BC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BA1C7E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BA41BF0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BAA2010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BA52800.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BAC3230.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BA54E10.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BB92460.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BB98C70.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BBA7680.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BBCBCA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BBD12B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BBE2CC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BBE8CD0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BC006F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BC08710.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BCF6D30.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BCF8740.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BD0D950.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BD15360.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275052A96D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BD18370.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BD27780.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BD28D90.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BD457B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752BFAFDE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752C0A2060.dll
+[HugsLib] version 10.0.1
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002752C8EC6E0.dll
+[HugsLib] early-initializing AllowTool
+[VanillaAchievementsExpanded] version 1.4.8315
+[Bed Rest For Food Poisoning] Loaded.
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002753055D500.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027530C01010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027530C14220.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027530C63240.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027504CFC020.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027530CCE010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027530C87450.dll
+Combat Readiness Check: Trying to patch Map.PlayerWealthForStoryteller
+Combat Readiness Check: Patched Map.PlayerWealthForStoryteller.
+Combat Readiness Check: Trying to patch Caravan.PlayerWealthForStoryteller
+Combat Readiness Check: Patched Caravan.PlayerWealthForStoryteller.
+Combat Readiness Check: Trying to patch StorytellerUtility.DefaultThreatPointsNow
+Combat Readiness Check: Patched StorytellerUtility.DefaultThreatPointsNow.
+dubwise.dubsbadhygiene 3.0.2228
+[KB_Prioritize_Research] - patching to allow research prioritizing.
+DubsBreakMod 1.0.1350
+DubsMintMenus v1.3.995
+FactionCustomizer is successfully initialized!
+[V1024-EBF] Super-early patching of DamageWorker_Blunt. This is to handle a known edge-case. Remaining patches will be made at the usual, appropriate moments.
+[NutrientPasteDispenserCommand 0.1.2] Mod Loaded.
+[Interaction Bubbles v2.5] Initialized
+[Always Available Style Change] - removing classic mode requirement
+[Always Available Style Change] - adding relevant category filtering
+Ugh You Got Me: Trying to patch MentalState_SocialFighting.ShouldStop.get.
+Ugh You Got Me: Patched MentalState_SocialFighting.ShouldStop.get.
+Ugh You Got Me: Trying to patch JobGiver_SocialFighting.TryGiveJob
+Ugh You Got Me: Patched JobGiver_SocialFighting.TryGiveJob.
+Loaded What's That Mod.
+[Yayo's Animation] - DualWield detected
+[Yayo's Animation] - Giddy-up! Core detected
+[Yayo's Animation] - No oversized weapons.
+[Yayo's Animation] - No deflector.
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027532BB2020.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000275052148C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027530E6C010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027532BCAA60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027532BD4070.dll
+GAGARIN: <color=green>StartUpStarted called!</color>
+GAGARIN: <color=green>Cache found</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.3580:12/16/2022 12:00:00 AM:1.4.3580 rev1304
+b.3580:12/16/2022 12:00:00 AM:1.4.3580 rev1304
+b.3580:12/16/2022 12:00:00 AM:1.4.3580 rev1304
+b.3580:12/16/2022 12:00:00 AM:1.4.3580 rev1304
+GAGARIN: Patches changed!<color=red>Autodoor.xml</color>:<color=red>jecrell.doorsexpanded</color> in D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\2195733555\1.4\Patches 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=yello>Cache disabled from</color>
+Postfix at offset 0 in file:line:column <filename unknown>:0:0
+Verse.LoadableXmlAsset..ctor_Patch1 at offset 0 in file:line:column <filename unknown>:0:0
+<XmlAssetsInModFolder>b__0 at offset 0 in file:line:column <filename unknown>:0:0
+<ParallelFor>b__0 at offset 0 in file:line:column <filename unknown>:0:0
+WaitCallback_Context at offset 0 in file:line:column <filename unknown>:0:0
+RunInternal at offset 0 in file:line:column <filename unknown>:0:0
+Run at offset 0 in file:line:column <filename unknown>:0:0
+System.Threading.IThreadPoolWorkItem.ExecuteWorkItem at offset 0 in file:line:column <filename unknown>:0:0
+Dispatch at offset 0 in file:line:column <filename unknown>:0:0
+PerformWaitCallback at offset 0 in file:line:column <filename unknown>:0:0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>LoadModXML_Profiler</color> took <color=red>3.892</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: CombineIntoUnifiedXML has <color=red>Context.IsUsingCache=False</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>CombineIntoUnifiedXML_Profiler</color> took <color=red>2.197</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>TKeySystem.Parse</color> took <color=red>0.006</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+LWM Deep Storage: activated compatibility patch for Dubs Bad Hygiene
+LWM Deep Storage: activated compatibility patch for Vanilla Cooking Expanded
+LWM Deep Storage: activated compatibility patch for VGP Garden Fabrics
+LWM Deep Storage: activated compatibility patch for VGP Vegetable Garden
+GAGARIN: <color=white>ApplyPatches_Profiler</color> took <color=red>42.825</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: Duplicate XML node name generateCommonality in this XML block: <ThingDef ParentName="ApparelBase"><defName>VAEA_Apparel_ExplosiveBelt</defName><label>explosive belt</label><description>A belt with explosives.</description><techLevel>Industrial</techLevel><recipeMaker><unfinishedThingDef>UnfinishedBelt</unfinishedThingDef><researchPrerequisite>Mortars</researchPrerequisite><useIngredientsForColor>false</useIngredientsForColor><workSpeedStat>GeneralLaborSpeed</workSpeedStat><workSkill>Crafting</workSkill><effectWorking>Smith</effectWorking><soundWorking>Recipe_Smith</soundWorking><recipeUsers><li>TableMachining</li></recipeUsers><skillRequirements><Crafting>4</Crafting></skillRequirements></recipeMaker><costList><Shell_Incendiary>2</Shell_Incendiary></costList><graphicData><texPath>Things/Apparel/ExplosiveBelt/ExplosiveBelt</texPath><graphicClass>Graphic_Single</graphicClass></graphicData><statBases><WorkToMake>3200</WorkToMake><Mass>2</Mass><Flammability>0.4</Flammability><EquipDelay>1.5</EquipDelay></statBases><thingCategories><li>ApparelUtility</li></thingCategories><generateAllowChance>0.15</generateAllowChance><apparel><wornGraphicPath>Things/Apparel/ExplosiveBelt/ExplosiveBelt</wornGraphicPath><careIfWornByCorpse>false</careIfWornByCorpse><careIfDamaged>false</careIfDamaged><countsAsClothingForNudity>false</countsAsClothingForNudity><bodyPartGroups><li>Waist</li></bodyPartGroups><layers><li>Belt</li></layers><tags><li>VAEA_Utility_Industrial</li><li>IndustrialMilitaryBasic</li><li>IndustrialMilitaryBasic</li><li>IndustrialMilitaryAdvanced</li></tags><wornGraphicData><renderUtilityAsPack>true</renderUtilityAsPack><north><male><offset>(-0.0, -0.25)</offset></male><female><offset>(-0.0,-0.3)</offset></female><thin><offset>(-0.0,-0.25)</offset></thin><hulk><offset>(-0.0,-0.4)</offset></hulk><fat><offset>(-0.0,-0.25)</offset></fat></north><south><male><offset>(0.0, -0.25)</offset></male><female><offset>(0.0,-0.3)</offset></female><thin><offset>(0.0,-0.25)</offset></thin><hulk><offset>(0.0,-0.4)</offset></hulk><fat><offset>(0.0,-0.25)</offset></fat></south><east><offset>(-0.05,-0.3)</offset><hulk><offset>(-0.1,-0.1)</offset></hulk><thin><offset>(-0.1,-0.0)</offset></thin><female><offset>(-0.05,-0.0)</offset></female></east><west><offset>(0.05,-0.3)</offset><hulk><offset>(0.1,-0.1)</offset></hulk><thin><offset>(0.1,-0.0)</offset></thin><female><offset>(0.05,-0.0)</offset></female></west><male><scale>(0.6,0.6)</scale></male><female><scale>(0.6,0.6)</scale></female><thin><scale>(0.7,0.7)</scale></thin><hulk><scale>(0.75,0.75)</scale></hulk><fat><scale>(0.75,0.75)</scale></fat></wornGraphicData></apparel><comps><li Class="VAE_Accessories.CompProperties_ExplodeOnDeath"><explosionRadius>5</explosionRadius><damageDef>Bomb</damageDef></li></comps><generateCommonality>0.2</generateCommonality><generateCommonality>0.3</generateCommonality></ThingDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: Duplicate XML node name generateCommonality in this XML block: <ThingDef ParentName="ApparelBase"><defName>VAEA_Apparel_MiniTurretPack</defName><label>mini-turret pack</label><description>A small pack of ammunition and components that control a shoulder mounted mini-turret.</description><techLevel>Industrial</techLevel><recipeMaker><unfinishedThingDef>UnfinishedApparel</unfinishedThingDef><recipeUsers Inherit="False"><li>TableMachining</li></recipeUsers><useIngredientsForColor>false</useIngredientsForColor><workSpeedStat>GeneralLaborSpeed</workSpeedStat><workSkill>Crafting</workSkill><effectWorking>Tailor</effectWorking><soundWorking>Recipe_Tailor</soundWorking><skillRequirements><Crafting>6</Crafting></skillRequirements></recipeMaker><costList><ComponentIndustrial>1</ComponentIndustrial><Steel>40</Steel></costList><graphicData><texPath>Things/Apparel/MiniTurretPack/MiniTurretPack</texPath><graphicClass>Graphic_Single</graphicClass></graphicData><statBases><WorkToMake>2400</WorkToMake><Mass>2</Mass><Flammability>0.4</Flammability><EquipDelay>2</EquipDelay><AccuracyTouch>0.70</AccuracyTouch><AccuracyShort>0.64</AccuracyShort><AccuracyMedium>0.41</AccuracyMedium><AccuracyLong>0.22</AccuracyLong><RangedWeapon_Cooldown>4.8</RangedWeapon_Cooldown></statBases><thingCategories><li>ApparelUtility</li></thingCategories><generateAllowChance>0.15</generateAllowChance><apparel><wornGraphicPath>Things/Apparel/MiniTurretPack/MiniTurretPack</wornGraphicPath><careIfWornByCorpse>false</careIfWornByCorpse><careIfDamaged>false</careIfDamaged><countsAsClothingForNudity>false</countsAsClothingForNudity><bodyPartGroups><li>Torso</li></bodyPartGroups><layers><li>Belt</li></layers><tags><li>VAEA_Utility_Industrial</li><li>IndustrialMilitaryAdvanced</li><li>IndustrialMilitaryAdvanced</li></tags><wornGraphicData><renderUtilityAsPack>true</renderUtilityAsPack><north><offset>(0.0,-0.1)</offset><hulk><offset>(-0.0,-0.1)</offset></hulk><fat><offset>(-0.0,-0.0)</offset></fat><thin><offset>(0.0,-0.0)</offset></thin></north><south><offset>(0.0,0.20)</offset><female><offset>(0.0,-0.2)</offset></female><hulk><offset>(-0.0,-0.0)</offset></hulk><fat><offset>(-0.0,-0.0)</offset></fat><thin><offset>(-0.0,-0.25)</offset></thin></south><east><offset>(-0.4,-0.1)</offset><hulk><offset>(-0.15,-0.0)</offset></hulk><fat><offset>(-0.10,-0.0)</offset></fat><thin><offset>(0.05,-0.0)</offset></thin></east><west><offset>(0.4,-0.1)</offset><hulk><offset>(0.15,-0.0)</offset></hulk><fat><offset>(0.10,-0.0)</offset></fat><thin><offset>(-0.05,-0.0)</offset></thin></west><male><scale>(0.75,0.75)</scale></male><female><scale>(0.75,0.75)</scale></female><thin><scale>(0.7,0.7)</scale></thin><hulk><scale>(0.9,0.9)</scale></hulk><fat><scale>(0.9,0.9)</scale></fat></wornGraphicData></apparel><verbs><li><verbClass>Verb_Shoot</verbClass><label>Gun</label><defaultProjectile>Bullet_MiniTurret</defaultProjectile><warmupTime>0</warmupTime><range>28.9</range><ticksBetweenBurstShots>8</ticksBetweenBurstShots><burstShotCount>1</burstShotCount><soundCast>GunShotA</soundCast><soundCastTail>GunTail_Light</soundCastTail><muzzleFlashScale>9</muzzleFlashScale></li></verbs><comps><li Class="MVCF.Comps.CompProperties_VerbGiver"><verbProps><li><label>Gun</label><visualLabel>mini-turret gun</visualLabel><description>A simple automatic gun made to be mounted on a shoulder.</description><canBeToggled>true</canBeToggled><comps><li Class="MVCF.VerbComps.VerbCompProperties_Turret"><compClass>MVCF.VerbComps.VerbComp_Turret</compClass><humanAsDefault>true</humanAsDefault><graphic><texPath>Things/Apparel/MiniTurretPack/MiniTurretPack_Gun</texPath><graphicClass>Graphic_Single</graphicClass></graphic><specificPositions><li><defName>Human</defName><BodyType>Hulk</BodyType><Default>(0,0)</Default><Up>(0.0,-0.1)</Up><Down>(0.4,0.2)</Down><Right>(-0.55,0.1)</Right><Left>(0.55,0.1)</Left></li><li><defName>Human</defName><BodyType>Fat</BodyType><Default>(0,0)</Default><Up>(0.0,-0.0)</Up><Down>(0.35,0.2)</Down><Right>(-0.5,0.1)</Right><Left>(0.5,0.1)</Left></li><li><defName>Human</defName><BodyType>Male</BodyType><Default>(0,0)</Default><Up>(0.0,-0.0)</Up><Down>(0.3,0.2)</Down><Right>(-0.4,0.1)</Right><Left>(0.4,0.1)</Left></li><li><defName>Human</defName><BodyType>Female</BodyType><Default>(0,0)</Default><Up>(0.0,-0.0)</Up><Down>(0.3,0.2)</Down><Right>(-0.4,0.1)</Right><Left>(0.4,0.1)</Left></li><li><defName>Human</defName><BodyType>Thin</BodyType><Default>(0,0)</Default><Up>(0.0,-0.0)</Up><Down>(0.3,0.2)</Down><Right>(-0.4,0.1)</Right><Left>(0.4,0.1)</Left></li></specificPositions><scalings><li><defName>Human</defName><BodyType>Thin</BodyType><scaling>1.1</scaling></li><li><defName>Human</defName><BodyType>Male</BodyType><scaling>1.2</scaling></li><li><defName>Human</defName><BodyType>Female</BodyType><scaling>1.2</scaling></li><li><defName>Human</defName><BodyType>Fat</BodyType><scaling>1.3</scaling></li><li><defName>Human</defName><BodyType>Hulk</BodyType><scaling>1.3</scaling></li></scalings></li></comps></li></verbProps></li></comps><generateCommonality>0.5</generateCommonality><generateCommonality>0.5</generateCommonality></ThingDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: Duplicate XML node name sowResearchPrerequisites in this XML block: <plant><growDays>5</growDays><dieIfLeafless>true</dieIfLeafless><harvestTag>Standard</harvestTag><harvestedThingDef>RawBerries</harvestedThingDef><harvestYield>6</harvestYield><sowMinSkill>5</sowMinSkill><sowTags><li>Ground</li><li>Hydroponic</li></sowTags><topWindExposure>0.1</topWindExposure><immatureGraphicPath>Things/Immature/StrawberryPlant</immatureGraphicPath><visualSizeRange>0.3~1.05</visualSizeRange><wildOrder>2</wildOrder><purpose>Food</purpose><humanFoodPlant>true</humanFoodPlant><sowResearchPrerequisites><li>RG_BerryCultivation</li></sowResearchPrerequisites><sowResearchPrerequisites><li>agricultureII</li></sowResearchPrerequisites></plant>
+
+Root node: <ThingDef ParentName="PlantBase"><defName>Plant_Strawberry</defName><label>strawberry plant</label><description>A low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw.</description><statBases><MaxHitPoints>85</MaxHitPoints><Nutrition>0.2</Nutrition><Beauty>2</Beauty><BeautyOutdoors>2</BeautyOutdoors></statBases><graphicData><texPath>Things/Plants/StrawberryPlant</texPath><graphicClass>Graphic_Random</graphicClass></graphicData><selectable>true</selectable><pathCost>14</pathCost><ingestible /><plant><growDays>5</growDays><dieIfLeafless>true</dieIfLeafless><harvestTag>Standard</harvestTag><harvestedThingDef>RawBerries</harvestedThingDef><harvestYield>6</harvestYield><sowMinSkill>5</sowMinSkill><sowTags><li>Ground</li><li>Hydroponic</li></sowTags><topWindExposure>0.1</topWindExposure><immatureGraphicPath>Things/Immature/StrawberryPlant</immatureGraphicPath><visualSizeRange>0.3~1.05</visualSizeRange><wildOrder>2</wildOrder><purpose>Food</purpose><humanFoodPlant>true</humanFoodPlant><sowResearchPrerequisites><li>RG_BerryCultivation</li></sowResearchPrerequisites><sowResearchPrerequisites><li>agricultureII</li></sowResearchPrerequisites></plant></ThingDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: Duplicate XML node name useSkinShader in this XML block: <graphicData><graphicPath>Things/Pawn/Humanlike/HeadAttachments/FloppyEars/FloppyEars</graphicPath><colorType>Hair</colorType><useSkinShader>false</useSkinShader><useSkinShader>false</useSkinShader></graphicData>
+
+Root node: <GeneDef ParentName="GeneEarsBase"><defName>Ears_Floppy</defName><label>floppy ears</label><description>Carriers of this gene grow long, floppy hound-like ears.</description><iconPath>UI/Icons/Genes/Gene_EarFloppy</iconPath><graphicData><graphicPath>Things/Pawn/Humanlike/HeadAttachments/FloppyEars/FloppyEars</graphicPath><colorType>Hair</colorType><useSkinShader>false</useSkinShader><useSkinShader>false</useSkinShader></graphicData><symbolPack><prefixSymbols><li><symbol>flop</symbol></li><li><symbol>flap</symbol></li><li><symbol>dog</symbol></li><li><symbol>droop</symbol></li><li><symbol>sag</symbol></li></prefixSymbols><suffixSymbols><li><symbol>hound</symbol></li><li><symbol>ear</symbol></li></suffixSymbols></symbolPack></GeneDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: Duplicate XML node name useSkinShader in this XML block: <graphicData><graphicPath>Things/Pawn/Humanlike/HeadAttachments/CatEars/CatEars</graphicPath><colorType>Hair</colorType><useSkinShader>false</useSkinShader><useSkinShader>false</useSkinShader></graphicData>
+
+Root node: <GeneDef ParentName="GeneEarsBase"><defName>Ears_Cat</defName><label>cat ears</label><description>Carriers of this gene have cat-like ears.</description><iconPath>UI/Icons/Genes/Gene_EarCat</iconPath><graphicData><graphicPath>Things/Pawn/Humanlike/HeadAttachments/CatEars/CatEars</graphicPath><colorType>Hair</colorType><useSkinShader>false</useSkinShader><useSkinShader>false</useSkinShader></graphicData><symbolPack><prefixSymbols><li><symbol>cat</symbol></li><li><symbol>kitty</symbol></li><li><symbol>kit</symbol></li><li><symbol>tabby</symbol></li><li><symbol>tom</symbol></li></prefixSymbols><suffixSymbols><li><symbol>cat</symbol></li><li><symbol>kitten</symbol></li><li><symbol>tabby</symbol></li><li><symbol>tom</symbol></li><li><symbol>ear</symbol></li></suffixSymbols></symbolPack></GeneDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.975</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KB_Prioritize_Research] - patching to allow research prioritizing.
+Parsed 0.000001 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.000001 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 197.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.3580:12/16/2022 12:00:00 AM:1.4.3580 rev1304
+GAGARIN: <color=white>Cache created!</color> creating cache took <color=green>1 seconds</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ParseAndProcessXML_Profiler</color> took <color=red>27.756</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ClearCachedPatches_Profiler</color> took <color=red>0</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+d3d11: failed to create 2D texture id=17589 width=25 height=31 mips=6 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=17589 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=17635 width=62 height=50 mips=7 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=17635 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+Could not allocate memory: System out of memory!
+Trying to allocate: 22369620B with 16 alignment. MemoryLabel: NewDelete
+Allocation happened at: Line:0 in Overloaded New[]
+Memory overview
+
+[ ALLOC_TEMP_THREAD ] used: 32768B | peak: 0B | reserved: 4063232B 
+[ ALLOC_TEMP_JOB_1_FRAME ] used: 0B | peak: 0B | reserved: 55574528B 
+[ ALLOC_TEMP_JOB_2_FRAMES ] used: 0B | peak: 0B | reserved: 1048576B 
+[ ALLOC_TEMP_JOB_4_FRAMES ] used: 0B | peak: 0B | reserved: 2097152B 
+[ ALLOC_TEMP_JOB_ASYNC ] used: 0B | peak: 0B | reserved: 5242880B 
+[ ALLOC_DEFAULT ] used: 386233720B | peak: 0B | reserved: 394813440B 
+[ ALLOC_GFX ] used: 30142064B | peak: 0B | reserved: 33214464B 
+[ ALLOC_CACHEOBJECTS ] used: 138693512B | peak: 0B | reserved: 144703488B 
+[ ALLOC_TYPETREE ] used: 82872B | peak: 0B | reserved: 4194304B 
+Could not allocate memory: System out of memory!
+Trying to allocate: 22369620B with 16 alignment. MemoryLabel: NewDelete
+Allocation happened at: Line:0 in Overloaded New[]
+Memory overview
+
+[ ALLOC_TEMP_THREAD ] used: 32768B | peak: 0B | reserved: 4063232B 
+[ ALLOC_TEMP_JOB_1_FRAME ] used: 0B | peak: 0B | reserved: 55574528B 
+[ ALLOC_TEMP_JOB_2_FRAMES ] used: 0B | peak: 0B | reserved: 1048576B 
+[ ALLOC_TEMP_JOB_4_FRAMES ] used: 0B | peak: 0B | reserved: 2097152B 
+[ ALLOC_TEMP_JOB_ASYNC ] used: 0B | peak: 0B | reserved: 5242880B 
+[ ALLOC_DEFAULT ] used: 386233720B | peak: 0B | reserved: 394813440B 
+[ ALLOC_GFX ] used: 30142064B | peak: 0B | reserved: 33214464B 
+[ ALLOC_CACHEOBJECTS ] used: 138693512B | peak: 0B | reserved: 144703488B 
+[ ALLOC_TYPETREE ] used: 82872B | peak: 0B | reserved: 4194304B 
+ 
+(Filename:  Line: 1507)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;D:\Program Files (x86)\Steam\steamapps\common\RimWorld;D:\Program Files (x86)\Steam\steamapps\common\RimWorld;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'kcook'
+OS-Version: 10.0.0
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64.exe:RimWorldWin64.exe (00007FF704940000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFBABFB0000), size: 2064384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFBAA0D0000), size: 782336 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2364
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFBA9A90000), size: 2957312 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2364
+C:\WINDOWS\SYSTEM32\apphelp.dll:apphelp.dll (00007FFBA68B0000), size: 593920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\UnityPlayer.dll:UnityPlayer.dll (00007FFB5F740000), size: 27037696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
+C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFBAA190000), size: 1708032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2311
+C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFBA96A0000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2364
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFBAB2C0000), size: 176128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (00007FFBA9D70000), size: 1110016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2364
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (00007FFBA97D0000), size: 643072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (00007FFBA96D0000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\ole32.dll:ole32.dll (00007FFBAA470000), size: 1220608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1202
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (00007FFBAA340000), size: 1200128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\WINDOWS\System32\combase.dll:combase.dll (00007FFBAA5A0000), size: 3493888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2311
+C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFBABCA0000), size: 348160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (00007FFBAB300000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.546
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FFBA2510000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFBAB620000), size: 4620288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (00007FFBA9F30000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\WINDOWS\System32\bcrypt.dll:bcrypt.dll (00007FFBA9A60000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFBAAAC0000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\WINDOWS\System32\sechost.dll:sechost.dll (00007FFBABED0000), size: 638976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1865
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (00007FFBAAB70000), size: 7618560 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2311
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFBABE00000), size: 839680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.985
+C:\WINDOWS\System32\IMM32.dll:IMM32.dll (00007FFBABAF0000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFB84E40000), size: 1200128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFBA9900000), size: 1400832 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1889
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFB8C910000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFBABD90000), size: 438272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFB9DB40000), size: 1097728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FFBA7EE0000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFB865D0000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FFBA7EF0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFBA9870000), size: 532480 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1415
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FFBA6CE0000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\WINDOWS\System32\shcore.dll:shcore.dll (00007FFBAB4C0000), size: 708608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1865
+C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFBA7740000), size: 7938048 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2311
+C:\WINDOWS\SYSTEM32\Wldp.dll:Wldp.dll (00007FFBA9100000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2311
+C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (00007FFBA95E0000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFB61AE0000), size: 7790592 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (00007FFBAA900000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\iphlpapi.dll:iphlpapi.dll (00007FFBA8B00000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1865
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00007FFBAB3A0000), size: 1134592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FFBA4F70000), size: 2502656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FFBA7F60000), size: 995328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2311
+C:\WINDOWS\System32\DriverStore\FileRepository\nvhmig.inf_amd64_089fa0c576d7dd56\nvldumdx.dll:nvldumdx.dll (00007FFB88230000), size: 778240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.15.2756
+C:\WINDOWS\SYSTEM32\msasn1.dll:msasn1.dll (00007FFBA9290000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2251
+C:\WINDOWS\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FFB97EF0000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\WINDOWS\SYSTEM32\drvstore.dll:drvstore.dll (00007FFB97050000), size: 1343488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1949
+C:\WINDOWS\SYSTEM32\devobj.dll:devobj.dll (00007FFBA9450000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\WINDOWS\SYSTEM32\cryptbase.dll:cryptbase.dll (00007FFBA9070000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\WINTRUST.DLL:WINTRUST.DLL (00007FFBA9F80000), size: 430080 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2311
+C:\WINDOWS\System32\imagehlp.dll:imagehlp.dll (00007FFBAB570000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1415
+C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFBA9050000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (00007FFBA8710000), size: 212992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1052
+C:\WINDOWS\System32\DriverStore\FileRepository\nvhmig.inf_amd64_089fa0c576d7dd56\nvwgf2umx.dll:nvwgf2umx.dll (00007FFB138E0000), size: 57200640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.15.2756
+C:\WINDOWS\system32\nvspcap64.dll:nvspcap64.dll (00007FFB62EB0000), size: 2945024 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.26.0.160
+C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFBA8830000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\dxcore.dll:dxcore.dll (00007FFB9B9D0000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (00007FFBABBF0000), size: 716800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
+C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (00007FFB97E20000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1320
+C:\WINDOWS\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FFBA1B00000), size: 589824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FFB97530000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1320
+C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (00007FFB97550000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\amsi.dll:amsi.dll (00007FFB90670000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (00007FFBA95A0000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.572
+C:\Program Files (x86)\Norton Security Suite\Engine\22.22.11.12\symamsi.dll:symamsi.dll (00007FFB90560000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 15.7.12.33
+C:\WINDOWS\System32\MMDevApi.dll:MMDevApi.dll (00007FFB94AB0000), size: 544768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1503
+C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FFB8AFF0000), size: 1581056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2364
+C:\WINDOWS\SYSTEM32\powrprof.dll:powrprof.dll (00007FFBA8C70000), size: 307200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\UMPDC.dll:UMPDC.dll (00007FFBA8AE0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (00007FFBA6DE0000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
+C:\WINDOWS\System32\DriverStore\FileRepository\ki126951.inf_amd64_94804e3918169543\igd10iumd64.dll:igd10iumd64.dll (00007FFB99D20000), size: 20934656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 23.20.16.4973
+C:\WINDOWS\SYSTEM32\ncrypt.dll:ncrypt.dll (00007FFBA9170000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.662
+C:\WINDOWS\SYSTEM32\NTASN1.dll:NTASN1.dll (00007FFBA9130000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\DriverStore\FileRepository\ki126951.inf_amd64_94804e3918169543\igc64.dll:igc64.dll (00007FFB97F80000), size: 31019008 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 23.20.16.4973
+C:\WINDOWS\SYSTEM32\dcomp.dll:dcomp.dll (00007FFBA5D60000), size: 1978368 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FFBA6EE0000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FFB8B600000), size: 1019904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\WINDOWS\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (00007FFBA62D0000), size: 3530752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (00007FFBA6630000), size: 991232 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (00007FFBA5C00000), size: 1392640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2311
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Plugins\x86_64\steam_api64.dll:steam_api64.dll (00007FFB8C8C0000), size: 311296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.91.21.57
+D:\Program Files (x86)\Steam\steamclient64.dll:steamclient64.dll (00007FFB5E1B0000), size: 22548480 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.72.78.29
+C:\WINDOWS\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (00007FFBA8E60000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\Secur32.dll:Secur32.dll (00007FFB883D0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+D:\Program Files (x86)\Steam\tier0_s64.dll:tier0_s64.dll (00007FFB65E40000), size: 1658880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.72.78.29
+D:\Program Files (x86)\Steam\vstdlib_s64.dll:vstdlib_s64.dll (00007FFB88170000), size: 733184 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.72.78.29
+C:\WINDOWS\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FFBA9560000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+D:\Program Files (x86)\Steam\gameoverlayrenderer64.dll:gameoverlayrenderer64.dll (00007FFB61790000), size: 1605632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.72.78.29
+C:\WINDOWS\SYSTEM32\Msacm32.DLL:Msacm32.DLL (00007FFB51320000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\WINDOWS\SYSTEM32\winmmbase.dll:winmmbase.dll (00007FFB6BEA0000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\WINDOWS\SYSTEM32\imaadp32.acm:imaadp32.acm (00007FFBA4B70000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\WINDOWS\SYSTEM32\msadp32.acm:msadp32.acm (00007FFBA49D0000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\WINDOWS\SYSTEM32\msg711.acm:msg711.acm (00007FFB96F30000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\WINDOWS\SYSTEM32\msgsm32.acm:msgsm32.acm (00007FFB96790000), size: 57344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\Windows\System32\l3codeca.acm:l3codeca.acm (00007FFB8C870000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.9.0.401
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFBA7470000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.867
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FFB605142BB (UnityPlayer) UnityMain
+0x00007FFB60513DCA (UnityPlayer) UnityMain
+0x00007FFB5FCCF202 (UnityPlayer) UnityMain
+0x00007FFB5FCCD0CE (UnityPlayer) UnityMain
+0x00007FFB5FCCCCD3 (UnityPlayer) UnityMain
+0x00007FFB5FDD4491 (UnityPlayer) UnityMain
+0x00007FFB600C9097 (UnityPlayer) UnityMain
+0x000002756E61D519 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.Texture2D:Compress (UnityEngine.Texture2D,bool)
+0x000002753494EE63 (Mono JIT Code) (wrapper dynamic-method) Verse.ModContentLoader`1<UnityEngine.Texture2D>:Verse.ModContentLoader`1[[UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]].LoadTexture_Patch1 (RimWorld.IO.VirtualFile)
+0x000002756E61C213 (Mono JIT Code) Verse.ModContentLoader`1<T_REF>:LoadItem (RimWorld.IO.VirtualFile)
+0x000002756E61B30B (Mono JIT Code) Verse.ModContentLoader`1/<LoadAllForMod>d__4<T_REF>:MoveNext ()
+0x000002756E61A882 (Mono JIT Code) Verse.ModContentHolder`1<T_REF>:ReloadAll ()
+0x000002756E61A123 (Mono JIT Code) Verse.ModContentPack:ReloadContentInt ()
+0x00000274DB98C6EC (Mono JIT Code) Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+0x00000274DB98CE3B (Mono JIT Code) Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+0x0000027505F84413 (Mono JIT Code) Verse.LongEventHandler:LongEventsUpdate (bool&)
+0x00000274DC1ED253 (Mono JIT Code) (wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+0x0000027505F8308B (Mono JIT Code) Verse.Root_Entry:Update ()
+0x0000027330AAEC30 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+0x00007FFB61C0E270 (mono-2.0-bdwgc) mono_get_runtime_build_info
+0x00007FFB61B92AE2 (mono-2.0-bdwgc) mono_perfcounters_init
+0x00007FFB61B9BB3F (mono-2.0-bdwgc) mono_runtime_invoke
+0x00007FFB6001606D (UnityPlayer) UnityMain
+0x00007FFB60013443 (UnityPlayer) UnityMain
+0x00007FFB5FFFC603 (UnityPlayer) UnityMain
+0x00007FFB5FFFC6BD (UnityPlayer) UnityMain
+0x00007FFB5FD88110 (UnityPlayer) UnityMain
+0x00007FFB5FED63C7 (UnityPlayer) UnityMain
+0x00007FFB5FED6463 (UnityPlayer) UnityMain
+0x00007FFB5FED88BC (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFB5FC8751E)
+0x00007FFB5FC8751E (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFB5FC8627A)
+0x00007FFB5FC8627A (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFB5FC8A32C)
+0x00007FFB5FC8A32C (UnityPlayer) (function-name not available)
+0x00007FFB5FC8DE1B (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FF7049411F2)
+0x00007FF7049411F2 (RimWorldWin64) (function-name not available)
+0x00007FFBAA0E7614 (KERNEL32) BaseThreadInitThunk
+0x00007FFBAC0026A1 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/kcook/AppData/Local/Temp/Ludeon Studios/RimWorld by Ludeon Studios/Crashes
